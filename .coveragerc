@@ -1,6 +1,5 @@
 [report]
 omit =
-    */python?.?/*
     */__pycache__/*
     *.pyc
     */venv/*
