@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/Busobozihakiim/Andela35-1.svg?branch=deploy)](https://travis-ci.com/Busobozihakiim/Andela35-1)
+[![Coverage Status](https://coveralls.io/repos/github/Busobozihakiim/Andela35-1/badge.svg?branch=deploy)](https://coveralls.io/github/Busobozihakiim/Andela35-1?branch=deploy)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ff83c67b25540dc601c1/maintainability)](https://codeclimate.com/github/Busobozihakiim/Andela35-1/maintainability)
+
 # Andela35 TRAINING REPO
 This repo is to help learners easily follow along during the session.
 
